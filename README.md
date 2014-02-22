@@ -5,7 +5,9 @@ Django and Angular JS sample with django-rest-framework
 
 
 >virtualenv ang 
+
 >source ang/bin/activate 
+
 >pip install -r requirements.txt 
 
 run syncdb to get your db setup, for this one its using sqlite
