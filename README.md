@@ -4,8 +4,10 @@ angular-sample
 Django and Angular JS sample with django-rest-framework
 
 
-virtualenv ang
+virtualenv ang 
+source ang/bin/activate 
+pip install -r requirements.txt 
 
-source ang/bin/activate
+>python manage.py runserver
 
-pip install -r requirements.txt
+It should be running on http://127.0.0.1:8000
