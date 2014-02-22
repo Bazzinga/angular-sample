@@ -19,4 +19,4 @@ run the application
 It should be running on http://127.0.0.1:8000
 
 REST API should be running on - http://127.0.0.1:8000//api/item/
-Admin - http://127.0.0.1:8040/admin/
+Admin - http://127.0.0.1:8000/admin/
